@@ -1,0 +1,10 @@
+// 配置ts转化为js的要求
+{
+  "compilerOptions": {
+    "module": "ES6",
+    "target": "ES6",
+    "strict": true,
+    "noEmitOnError": true
+  }
+}
+
